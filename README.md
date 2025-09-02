@@ -22,12 +22,7 @@
 1.  **네이버 개발자 센터 등록**: 네이버 개발자 센터에서 애플리케이션을 등록하고 Client ID 및 Client Secret을 발급받아야 합니다.
 2.  **Client ID 및 Secret 설정**: `main.py` 파일에서 `client_id`와 `client_secret` 변수에 발급받은 값을 입력합니다.
 
-## 설치 및 실행
-
-실행하기 전 필요한 라이브러리를 설치해야 합니다. 터미널 또는 명령 프롬프트에서 다음 명령을 실행하세요.
-```
-pip install -r requirements.txt
-```
+## 실행
 
 실행 예시는 다음과 같습니다. 
 ```
