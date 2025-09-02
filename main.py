@@ -13,8 +13,8 @@ def main():
         return 
     
     # API 호출
-    client_id = "erhyEarWYdIa3BK7YZSL"
-    client_secret = "XiwsboFmAS"
+    client_id = "YOUR_NAVER_CLIENT_ID"
+    client_secret = "YOUR_NAVER_CLIENT_SECRET"
 
     # 영화 리뷰 탐색
     movie_title = input("영화제목을 입력하세요: ")
@@ -36,4 +36,5 @@ def main():
     print(f"{movie_title}의 스토리 점수는 {avg_story_score}입니다")
 
 if __name__ == "__main__":
+
     main()
