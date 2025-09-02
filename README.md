@@ -26,7 +26,7 @@
 
 실행하기 전 필요한 라이브러리를 설치해야 합니다. 터미널 또는 명령 프롬프트에서 다음 명령을 실행하세요.
 ```
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 실행 예시는 다음과 같습니다. 
